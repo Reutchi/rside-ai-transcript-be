@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Reutchi/rside-ai-transcript-be/issues"
   },
-  "homepage": "https://github.com/Reutchi/rside-ai-transcript-be#readme"
+  "homepage": "https://github.com/Reutchi/rside-ai-transcript-be#readme",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "express-fileupload": "^1.5.2"
+  }
 }
